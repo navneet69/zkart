@@ -1,0 +1,10 @@
+com\zkart\product_service\repository\ProductRepository.class
+com\zkart\product_service\dto\ProductRequest$ProductRequestBuilder.class
+com\zkart\product_service\ProductServiceApplication.class
+com\zkart\product_service\model\Product.class
+com\zkart\product_service\service\ProductService.class
+com\zkart\product_service\dto\ProductResponse.class
+com\zkart\product_service\controller\ProductController.class
+com\zkart\product_service\model\Product$ProductBuilder.class
+com\zkart\product_service\dto\ProductRequest.class
+com\zkart\product_service\dto\ProductResponse$ProductResponseBuilder.class

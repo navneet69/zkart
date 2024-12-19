@@ -1,0 +1,5 @@
+com\zkart\inventory_service\model\Inventory.class
+com\zkart\inventory_service\service\InventoryService.class
+com\zkart\inventory_service\controller\InventoryController.class
+com\zkart\inventory_service\InventoryServiceApplication.class
+com\zkart\inventory_service\repository\InventoryRepository.class
