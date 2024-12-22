@@ -1,6 +1,6 @@
 package com.zkart.order_service.model;
 
-import java.util.List;
+import java.math.BigDecimal;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -16,9 +16,10 @@ import lombok.Setter;
 @Setter
 public class Order {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
     private String orderNumber;
-    @OneToMany(cascade = CascadeType.ALL)
-    private List<OrderlineItems> orderLineItemsList;
+    private String skuCode;
+    private BigDecimal price;
+    private Integer quantity;
 }

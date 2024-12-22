@@ -1,2 +1,12 @@
+target/
+!**/src/test/**/taret/
+!**/src/main/**/target/
+
+### OS ###
+/mysql/
+/volume-data/
+/data/
+/docker/tempo/tempo-data/
+
 ### VS Code ###
 .vscode/
