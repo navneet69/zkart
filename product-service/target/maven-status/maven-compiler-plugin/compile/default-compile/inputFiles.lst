@@ -1,7 +1,0 @@
-F:\Java-SpringBoot\zkart\microservices\product-service\src\main\java\com\zkart\product_service\controller\ProductController.java
-F:\Java-SpringBoot\zkart\microservices\product-service\src\main\java\com\zkart\product_service\dto\ProductRequest.java
-F:\Java-SpringBoot\zkart\microservices\product-service\src\main\java\com\zkart\product_service\dto\ProductResponse.java
-F:\Java-SpringBoot\zkart\microservices\product-service\src\main\java\com\zkart\product_service\model\Product.java
-F:\Java-SpringBoot\zkart\microservices\product-service\src\main\java\com\zkart\product_service\ProductServiceApplication.java
-F:\Java-SpringBoot\zkart\microservices\product-service\src\main\java\com\zkart\product_service\repository\ProductRepository.java
-F:\Java-SpringBoot\zkart\microservices\product-service\src\main\java\com\zkart\product_service\service\ProductService.java
