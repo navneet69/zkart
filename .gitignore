@@ -12,3 +12,6 @@ target/
 .vscode/
 **/mysql
 **/data
+
+### React ###
+**/node_modules
