@@ -16,9 +16,9 @@ import lombok.NoArgsConstructor;
 @Builder
 @Data
 public class Product {
-    @Id
     private String id;
     private String name;
     private String description;
+    private String skuCode;
     private BigDecimal price;
 }
