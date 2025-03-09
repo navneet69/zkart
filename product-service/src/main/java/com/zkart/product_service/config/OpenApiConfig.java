@@ -21,6 +21,5 @@ public class OpenApiConfig {
                 .externalDocs(new ExternalDocumentation()
                         .description("You can refer to the Product Service Wiki Documentation")
                         .url("https://product-service-dummy-url.com/docs"));   
-                        
     }
 }
